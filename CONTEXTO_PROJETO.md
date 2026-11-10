@@ -1,4 +1,4 @@
-e3aff577-cfd4-46a6-a11f-819c0d38d34ce3aff577-cfd4-46a6-a11f-819c0d38d34c# 📋 Documentação de Contexto do Projeto - Sistema de Pizzaria
+# 📋 Documentação de Contexto do Projeto - Sistema de Pizzaria
 
 ## 📖 Índice
 
